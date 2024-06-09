@@ -7,6 +7,11 @@ body {
     flex-direction: column;
 }
 
+.log {
+    color: #ff2600f8;
+    font-size: 26px;
+}
+
 .header {
     background-color: #1f2937;
     display: flex;
